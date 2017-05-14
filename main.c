@@ -1,4 +1,4 @@
-nt main() {
+int main() {
   // no-op.
   return 0;
 }
